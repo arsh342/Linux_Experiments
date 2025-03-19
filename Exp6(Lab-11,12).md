@@ -18,7 +18,8 @@ sudo useradd operator1
 ```
 
 #### Screenshot:
-![Creating operator1 user](screenshots/useradd_operator1.png)
+![image](https://github.com/user-attachments/assets/c336eb88-6f38-4310-a666-f055320805e6)
+
 
 ##### Example 2: Verify User Creation
 To confirm that the user exists in the system, you can check the `/etc/passwd` file:
@@ -27,7 +28,8 @@ grep operator1 /etc/passwd
 ```
 
 #### Screenshot:
-![Verifying operator1 creation](screenshots/verify_operator1.png)
+![image](https://github.com/user-attachments/assets/e89164ba-054b-425f-a3f4-dc02cb4224a8)
+
 
 ---
 
@@ -42,7 +44,8 @@ sudo passwd operator1
 ```
 
 #### Screenshot:
-![Setting password for operator1](screenshots/passwd_operator1.png)
+![image](https://github.com/user-attachments/assets/00e41a8c-d356-4115-8a5c-8a0f491cfab0)
+
 
 ---
 
@@ -62,7 +65,8 @@ sudo passwd operator2
 ```
 
 #### Screenshot:
-![Creating and setting password for operator2](screenshots/useradd_passwd_operator2.png)
+![image](https://github.com/user-attachments/assets/38f7b5ea-cade-459a-a12c-e2466600a20e)
+
 
 ##### Example 3: Create operator3 User
 ```bash
@@ -75,7 +79,8 @@ sudo passwd operator3
 ```
 
 #### Screenshot:
-![Creating and setting password for operator3](screenshots/ .png)
+![image](https://github.com/user-attachments/assets/1330b6fc-6249-4f7b-b5d6-3da2560309ef)
+
 
 ---
 
@@ -91,7 +96,8 @@ sudo usermod -c "Operator Level 1" operator1
 ```
 
 #### Screenshot:
-![Updating comments for operator1](screenshots/usermod_operator1.png)
+![image](https://github.com/user-attachments/assets/b35ce1e9-0ff8-47ff-9e78-72457c39d136)
+
 
 ##### Verification: Check Updated User Information
 ```bash
