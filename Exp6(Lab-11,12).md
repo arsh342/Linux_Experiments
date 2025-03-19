@@ -168,5 +168,3 @@ In this lab, you learned how to:
 4. Remove user accounts using `userdel`
 
 These skills are essential for user management and system administration in Linux environments.
-
----

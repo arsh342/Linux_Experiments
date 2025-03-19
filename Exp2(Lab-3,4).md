@@ -62,7 +62,7 @@ echo file_{A,B,C}.txt
 echo number_{1..5}z
 ```
 
-### Screenshots
+### Screenshot
 Below are screenshots demonstrating the execution of commands
 
 #### 1. Viewing the `gedit` man page:

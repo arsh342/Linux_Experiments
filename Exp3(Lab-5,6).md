@@ -13,7 +13,6 @@ Before starting, ensure you have the `editing_final_lab.txt` file. If it doesn't
 touch editing_final_lab.txt
 ```
 
-
 To store the file path in a shell variable for easier access:
 ```bash
 lab_file="editing_final_lab.txt"
@@ -120,5 +119,3 @@ This
 
 ## Conclusion
 In this lab, you learned how to use **Nano** and **Vim** to edit files in Linux. You practiced basic text manipulation in Vim, including entering visual mode, deleting specific characters, and preserving portions of text. These skills are essential for efficient file editing and scripting in Linux.
-
----

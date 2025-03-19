@@ -157,5 +157,3 @@ In this lab, you learned how to:
 2. Install, update, and remove software using `apt-get`.
 
 These skills are essential for system administration, process monitoring, and software management in Linux.
-
----

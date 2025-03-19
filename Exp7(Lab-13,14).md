@@ -294,5 +294,3 @@ In this lab, you learned how to:
 5. Verify permission and ownership changes
 
 These skills are essential for managing file security, controlling access to resources, and maintaining a secure Linux environment.
-
----

@@ -512,5 +512,3 @@ In this lab, you learned how to:
 4. Combine scripts and redirection to create automated system reports
 
 These skills are essential for system administration, automation, and creating useful tools for Linux environments. Shell scripting allows you to automate repetitive tasks, perform complex operations, and generate reports that can be used for monitoring and troubleshooting.
-
----

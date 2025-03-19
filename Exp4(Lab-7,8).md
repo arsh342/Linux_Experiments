@@ -129,5 +129,3 @@ In this lab, you learned how to:
 3. Configure the `umask` for a user to control default file and directory permissions.
 
 These skills are essential for managing file systems and ensuring proper access control in Linux environments.
-
----
