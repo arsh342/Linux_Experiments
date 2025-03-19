@@ -42,7 +42,8 @@ Below are screenshots demonstrating the execution of commands:
 ![Creating Files and Directories](https://github.com/user-attachments/assets/00a325ee-095b-4f93-9177-a2766b8da5e5)
 
 #### 2. Listing the created files and directories:
-![Listing Files](screenshots/list_files.png)
+![Listing Files](https://github.com/user-attachments/assets/f67a3e4e-a117-49fd-bb04-1a7b8eb26f2e)
+
 
 ## Conclusion
 In this lab, we successfully created multiple files using `touch` with brace expansion and multiple directories using `mkdir`. These commands help in efficient file and directory management on a Linux system.
