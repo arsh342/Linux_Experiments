@@ -28,7 +28,8 @@ echo "-------------------------"
 ```
 
 #### Screenshot:
-![Basic system information script](screenshots/system_info_basic.png)
+![image](https://github.com/user-attachments/assets/e7f63ef3-9fc2-47d4-afb7-1c7a3e3b7135)
+
 
 ##### Example 2: Creating a script to display disk usage
 ```bash
@@ -47,7 +48,8 @@ echo "-------------------------"
 ```
 
 #### Screenshot:
-![Disk usage script](screenshots/disk_usage.png)
+![image](https://github.com/user-attachments/assets/b256c05c-308e-4771-a980-1d765cf309d8)
+
 
 ---
 
@@ -82,7 +84,8 @@ echo "-------------------------"
 ```
 
 #### Screenshot:
-![System resource monitor script](screenshots/resource_monitor.png)
+![image](https://github.com/user-attachments/assets/45d9369a-dd8a-4f08-b5ef-3feecffa6337)
+
 
 ---
 
@@ -102,7 +105,8 @@ echo "-------------------------"
 ```
 
 #### Screenshot:
-![Network information script](screenshots/network_info.png)
+![image](https://github.com/user-attachments/assets/d18510cd-6993-4f50-9206-e1d33e7ce100)
+
 
 ---
 
@@ -154,7 +158,8 @@ echo "-------------------------"
 ```
 
 #### Screenshot:
-![Basic calculator script](screenshots/basic_calculator.png)
+![image](https://github.com/user-attachments/assets/a0c5ac48-c87c-4073-9933-0b18e6c426ef)
+
 
 ---
 
@@ -204,7 +209,8 @@ echo "-------------------------"
 ```
 
 #### Screenshot:
-![Advanced calculator script](screenshots/advanced_calculator.png)
+![image](https://github.com/user-attachments/assets/5121c902-2912-48fc-aaa8-e5bc5b1e0d8f)
+
 
 ---
 
@@ -269,7 +275,8 @@ esac
 ```
 
 #### Screenshot:
-![Area and volume calculator script](screenshots/area_volume_calc.png)
+![image](https://github.com/user-attachments/assets/4f9a4ff2-2d2c-446c-85aa-85194c93c5c5)
+
 
 ---
 
@@ -291,7 +298,8 @@ echo "Data has been written to system_info.txt"
 ```
 
 #### Screenshot:
-![Output redirection script](screenshots/output_redirection.png)
+![image](https://github.com/user-attachments/assets/36bbc902-3287-426a-8034-5dd5c51b9259)
+
 
 ##### Example 2: Overwriting vs. Appending
 ```bash
@@ -312,7 +320,8 @@ cat append_demo.txt
 ```
 
 #### Screenshot:
-![Overwrite vs append redirection](screenshots/overwrite_append.png)
+![image](https://github.com/user-attachments/assets/9657602f-052e-444d-9158-20032fc5cf28)
+
 
 ---
 
@@ -331,7 +340,8 @@ cat error.txt
 ```
 
 #### Screenshot:
-![Error redirection script](screenshots/error_redirection.png)
+![image](https://github.com/user-attachments/assets/e5bad75f-b152-41e9-9648-2fb5fa1eae39)
+
 
 ---
 
@@ -350,7 +360,8 @@ cat combined_output.txt
 ```
 
 #### Screenshot:
-![Combined redirection script](screenshots/combined_redirection.png)
+![image](https://github.com/user-attachments/assets/5b0474d8-249e-4e44-a6b5-f4e572d4399a)
+
 
 ---
 
@@ -371,7 +382,8 @@ echo "The list has also been saved to large_files.txt"
 ```
 
 #### Screenshot:
-![Redirection with pipes script](screenshots/redirection_pipes.png)
+![image](https://github.com/user-attachments/assets/4e95abf6-f330-4bc6-b5fe-2f148a72e66f)
+
 
 ---
 
@@ -403,7 +415,8 @@ echo "Report has been generated and saved to report.txt"
 ```
 
 #### Screenshot:
-![Here document script](screenshots/here_document.png)
+![image](https://github.com/user-attachments/assets/1672c447-d343-4e9b-a6db-b37548d1ee9a)
+
 
 ---
 
@@ -485,7 +498,8 @@ echo "System report has been generated and saved to $report_file"
 ```
 
 #### Screenshot:
-![System monitoring script](screenshots/system_monitoring.png)
+![image](https://github.com/user-attachments/assets/c95a4abc-cbc4-48b5-b9bd-4113f4eb264a)
+
 
 ---
 
