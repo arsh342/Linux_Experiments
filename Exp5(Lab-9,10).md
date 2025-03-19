@@ -18,7 +18,8 @@ ps
 ```
 
 #### Screenshot:
-![Display processes for the current user](screenshots/ps_command.png)
+![image](https://github.com/user-attachments/assets/4f4425f3-a40a-4141-a5c9-c4bdfd870f55)
+
 
 ##### Example 2: Display All Processes
 ```bash
@@ -26,7 +27,8 @@ ps -e
 ```
 
 #### Screenshot:
-![Display all processes](screenshots/ps_e.png)
+![image](https://github.com/user-attachments/assets/9b890aaf-71ba-4dd0-a33e-f939da8e1adb)
+
 
 ##### Example 3: Display Processes in Full Format
 ```bash
@@ -34,7 +36,8 @@ ps -ef
 ```
 
 #### Screenshot:
-![Display processes in full format](screenshots/ps_ef.png)
+![image](https://github.com/user-attachments/assets/2b23d7a5-a3ac-4808-becd-40864de1e5f0)
+
 
 ---
 
@@ -47,7 +50,8 @@ top
 ```
 
 #### Screenshot:
-![Running top command](screenshots/top_command.png)
+![image](https://github.com/user-attachments/assets/527b0ee8-9fa9-4efa-83c0-69425b955548)
+
 
 ---
 
@@ -61,7 +65,8 @@ kill <PID>
 ```
 
 #### Screenshot:
-![Terminating a process by PID](screenshots/kill_pid.png)
+![image](https://github.com/user-attachments/assets/bf45bdd1-ed97-43f7-9197-6d93cb18d9e3)
+
 
 ##### Example 2: Forcefully Terminate a Process
 ```bash
@@ -69,7 +74,8 @@ kill -9 <PID>
 ```
 
 #### Screenshot:
-![Forcefully terminating a process](screenshots/kill_9.png)
+![image](https://github.com/user-attachments/assets/b5f3a844-e314-457c-897f-ddc001f69e9e)
+
 
 ---
 
@@ -84,7 +90,8 @@ sudo apt-get install htop
 ```
 
 #### Screenshot:
-![Installing htop](screenshots/apt_get_install.png)
+![image](https://github.com/user-attachments/assets/dee79d8b-71f4-4c08-a760-f212aff93da4)
+
 
 ---
 
@@ -95,7 +102,8 @@ sudo apt-get update
 ```
 
 #### Screenshot:
-![Updating package list](screenshots/apt_get_update.png)
+![image](https://github.com/user-attachments/assets/b34fa92b-6399-4d90-afc2-ddde4e2bfaeb)
+
 
 To upgrade installed packages to their latest versions, use:
 ```bash
@@ -103,7 +111,8 @@ sudo apt-get upgrade
 ```
 
 #### Screenshot:
-![Upgrading packages](screenshots/apt_get_upgrade.png)
+![image](https://github.com/user-attachments/assets/989be8f7-e81d-49ba-a570-8fcddd41f87c)
+
 
 ---
 
@@ -116,7 +125,8 @@ sudo apt-get remove htop
 ```
 
 #### Screenshot:
-![Removing htop](screenshots/apt_get_remove.png)
+![image](https://github.com/user-attachments/assets/4a68a83b-9105-4499-9af4-1f544d0edbd3)
+
 
 To remove the package along with its configuration files, use:
 ```bash
@@ -124,7 +134,8 @@ sudo apt-get purge htop
 ```
 
 #### Screenshot:
-![Purging htop](screenshots/apt_get_purge.png)
+![image](https://github.com/user-attachments/assets/4487019b-2c8f-4d9a-b7ae-322fd09bb4f7)
+
 
 ---
 
@@ -135,7 +146,8 @@ dpkg -l | grep htop
 ```
 
 #### Screenshot:
-![Verifying htop installation](screenshots/dpkg_grep_htop.png)
+![image](https://github.com/user-attachments/assets/a6647d27-51ba-40dd-997c-5cad7e3a17c7)
+
 
 ---
 
