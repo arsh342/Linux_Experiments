@@ -66,14 +66,18 @@ echo number_{1..5}z
 Below are screenshots demonstrating the execution of commands
 
 #### 1. Viewing the `gedit` man page:
-![gedit man page](screenshots/mangedit.png)
-![gedit man page](screenshots/gedit_man.png)
+![image](https://github.com/user-attachments/assets/69093f1e-3981-4f7a-8265-bfca2d75405a)
+
+![image](https://github.com/user-attachments/assets/335aac29-f6f4-41dd-af1f-b56d6e865da3)
+
 
 #### 2. Searching for `ext4` commands:
-![Searching ext4](screenshots/search_ext4.png)
+![image](https://github.com/user-attachments/assets/c12fd759-8223-4e22-9fc2-daf08ff3f384)
+
 
 #### 3. Using brace expansion:
-![Brace Expansion](screenshots/brace_expansion.png)
+![image](https://github.com/user-attachments/assets/f90aeac8-0aee-4d18-9a03-499147de75c5)
+
 
 ## Conclusion
 In this lab, we explored `man` pages, searched for `ext4` commands using `man -k`, and demonstrated the power of **brace expansion** for generating multiple strings efficiently. These concepts help in effective command-line usage and scripting in Linux.
