@@ -39,7 +39,7 @@ friends  family  work  song1.mp3  song2.mp3  song3.mp3  song4.mp3  song5.mp3  so
 Below are screenshots demonstrating the execution of commands:
 
 #### 1. Running the `touch` and `mkdir` commands:
-![Creating Files and Directories](screenshots/create_files_dirs.png)
+![Creating Files and Directories](https://github.com/user-attachments/assets/00a325ee-095b-4f93-9177-a2766b8da5e5)
 
 #### 2. Listing the created files and directories:
 ![Listing Files](screenshots/list_files.png)
