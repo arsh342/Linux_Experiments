@@ -81,4 +81,3 @@ Below are screenshots demonstrating the execution of commands
 
 ## Conclusion
 In this lab, we explored `man` pages, searched for `ext4` commands using `man -k`, and demonstrated the power of **brace expansion** for generating multiple strings efficiently. These concepts help in effective command-line usage and scripting in Linux.
-
