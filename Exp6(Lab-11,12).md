@@ -106,7 +106,8 @@ grep operator1 /etc/passwd
 
 #### Screenshot:
 
-![Verifying updated comments](screenshots/verify_usermod_operator1.png)
+![image](https://github.com/user-attachments/assets/d1516ace-98dd-4853-af32-5601221a30ab)
+
 
 ---
 
@@ -120,16 +121,14 @@ The `userdel` command is used to delete a user account from the system.
 sudo userdel operator3
 ```
 
-#### Screenshot:
-![Removing operator3 user](screenshots/userdel_operator3.png)
-
 ##### Verification: Confirm User Removal
 ```bash
 grep operator3 /etc/passwd
 ```
 
 #### Screenshot:
-![Verifying operator3 removal](screenshots/verify_userdel_operator3.png)
+![image](https://github.com/user-attachments/assets/b69734e4-f551-42ec-99b9-bddfbedae412)
+
 
 ---
 
