@@ -14,7 +14,8 @@ sudo mkdir /home/consultants
 ```
 
 #### Screenshot:
-![Creating the consultants directory](screenshots/mkdir_consultants.png)
+![image](https://github.com/user-attachments/assets/d9ed4659-3f8b-4510-aeca-6357b5e80de6)
+
 
 ---
 
@@ -28,7 +29,8 @@ sudo chmod g+w /home/consultants
 - `g+w`: Adds write (`w`) permission for the group (`g`).
 
 #### Screenshot:
-![Adding write permission to the group](screenshots/chmod_gw.png)
+![image](https://github.com/user-attachments/assets/bf1c5837-f90a-4078-a1d1-45a8837bcae9)
+
 
 ---
 
@@ -45,7 +47,8 @@ sudo chmod 770 /home/consultants
   - `0` (others): No permissions.
 
 #### Screenshot:
-![Setting permissions using the octal method](screenshots/chmod_770.png)
+![image](https://github.com/user-attachments/assets/776dac0d-a12f-4928-9a18-aeb1e15818b8)
+
 
 ---
 
@@ -61,7 +64,8 @@ drwxrwx--- 2 root consultants 4096 Oct 10 12:34 /home/consultants
 ```
 
 #### Screenshot:
-![Verifying directory permissions](screenshots/ls_ld_consultants.png)
+![image](https://github.com/user-attachments/assets/6818295e-97d8-44b1-aebf-73e363434ef9)
+
 
 ---
 
@@ -95,7 +99,8 @@ The `umask` determines the default permissions for newly created files and direc
   - `7` (others): No permissions.
 
 #### Screenshot:
-![Changing and verifying umask](screenshots/umask_change.png)
+![image](https://github.com/user-attachments/assets/6f0cd885-c1a1-47c9-9d99-7fb7ab3ae917)
+
 
 ---
 
@@ -112,7 +117,8 @@ ls -l
 - Directory permissions: `drwxrwx---`
 
 #### Screenshot:
-![Confirming umask with new file and directory](screenshots/umask_confirm.png)
+![image](https://github.com/user-attachments/assets/010d3367-3950-4a88-9a34-fdd9ed9be4f1)
+
 
 ---
 
