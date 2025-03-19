@@ -20,7 +20,8 @@ lab_file="editing_final_lab.txt"
 ```
 
 #### Screenshot:
-![Setting the shell variable](screenshots/set_lab_file.png)
+![image](https://github.com/user-attachments/assets/3e310827-2e17-49d1-84a8-1553d58a54f7)
+
 
 ---
 
@@ -31,7 +32,8 @@ nano $lab_file
 ```
 
 #### Screenshot:
-![Opening Nano](screenshots/nano_open.png)
+![image](https://github.com/user-attachments/assets/f308fa93-1c29-43d7-a475-2a24aaf37627)
+
 
 #### Tasks in Nano:
 1. Add the following text to the file:
@@ -45,7 +47,8 @@ nano $lab_file
 2. Save the file by pressing `CTRL + O`, then exit Nano by pressing `CTRL + X`.
 
 #### Screenshot:
-![Saving and exiting Nano](screenshots/nano_save_exit.png)
+![image](https://github.com/user-attachments/assets/205a3173-4be5-453a-927a-a59ba8d08688)
+
 
 ---
 
@@ -56,7 +59,8 @@ vim $lab_file
 ```
 
 #### Screenshot:
-![Opening Vim](screenshots/vim_open.png)
+![image](https://github.com/user-attachments/assets/7061e9e2-b0e0-4bc7-a772-1ed5e83f1768)
+
 
 #### Tasks in Vim:
 1. **Enter Visual Mode**:
@@ -64,7 +68,8 @@ vim $lab_file
    - Press `v` to enter visual mode.
 
 #### Screenshot:
-![Entering Visual Mode](screenshots/vim_visual_mode.png)
+![image](https://github.com/user-attachments/assets/9817adb2-631a-47ad-b85b-22336f83b4f0)
+
 
 2. **Remove the Last Seven Characters from the First Column**:
    - In visual mode, highlight the last seven characters of the first line.
@@ -83,7 +88,8 @@ vim $lab_file
    - Type `:wq` and press `Enter` to save and exit Vim.
 
 #### Screenshot:
-![Saving and exiting Vim](screenshots/vim_save_exit.png)
+![image](https://github.com/user-attachments/assets/82c53f04-8a30-4fa3-8879-b18423249b88)
+
 
 ---
 
@@ -94,7 +100,8 @@ cat $lab_file
 ```
 
 #### Screenshot:
-![Verifying file contents](screenshots/cat_file.png)
+![image](https://github.com/user-attachments/assets/1d2fba2f-a65e-4e64-b411-db49569857a3)
+
 
 ### Expected Output:
 If the file initially contained:
